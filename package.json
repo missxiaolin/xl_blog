@@ -19,5 +19,8 @@
   "homepage": "https://github.com/missxiaolin/xl_blog#readme",
   "dependencies": {
     "vuepress": "^1.8.2"
+  },
+  "devDependencies": {
+    "vuepress-theme-vdoing": "^1.8.3"
   }
 }
